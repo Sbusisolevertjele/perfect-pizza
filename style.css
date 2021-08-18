@@ -3,36 +3,13 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.buy{
-    padding: 1em;
-    margin: 1em;
-}
-
-.Check{
-    padding: 1em;
-    margin: 1em;
-}
-
-.warning{
-    background-color : orange;
-}
-
 .pizza {
     /*box-model */
     border: 1px ;
     padding: 1em;
     margin: 1em;
     margin-bottom: 0.5em;
-    border-radius: 1em;
-    
-}
-
-.Shopping{
-    background-color: #FFD166;
-    padding: 1em;
-    margin: 1em;
-    border-radius: 1em;
-    margin-bottom: -0.05em;
+    border-radius: 1em;    
 }
 
 .large_pizza {
